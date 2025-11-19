@@ -1,3 +1,2 @@
-behave
-requests
 pytest
+selenium
